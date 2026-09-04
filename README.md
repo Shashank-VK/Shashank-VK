@@ -35,7 +35,7 @@ Need a website, dashboard, or browser extension delivered with extreme speed? I 
 
 If my open-source software or templates helped you, direct contributions and licensing payments are appreciated:
 
-- 🇮🇳 **UPI (India — Zero Fees):** `9980955236@upi` (GPay, PhonePe, Paytm, CRED)
+- 🇮🇳 **UPI (India — Zero Fees):** `shashankkaramudi@ibl` (GPay, PhonePe, Paytm, CRED)
 - 🌐 **EVM On-Chain Wallet (Base / Polygon / Arbitrum / Ethereum):**  
   `0x49e03383285eEef3927E12D88c1227f059BbD42d`
 

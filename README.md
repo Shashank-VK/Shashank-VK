@@ -20,4 +20,4 @@ B.Tech CSE '27 @ CMR University, Bengaluru. I build AI agents, GenAI apps, and b
 
 📫 shashankvkaramudi51@gmail.com · [LinkedIn](https://www.linkedin.com/in/shashankareddy-karamudi)
 
-🎁 **My Muse AI invite code:** `230HAS` — we both get **1 billion free tokens**. Redeem in the app under *Settings → Redeem token* (within 48 hours of joining).
+🎁 **My Muse AI invite code:** `230HAS` — we both get **1 billion free tokens**. Redeem in the app under *Settings → Redeem token* (within 48 hours of joining). Full setup guide: [muse-setup-guide](https://github.com/Shashank-VK/muse-setup-guide).

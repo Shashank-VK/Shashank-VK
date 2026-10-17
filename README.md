@@ -16,6 +16,6 @@ B.Tech CSE '27 @ CMR University, Bengaluru. I build AI agents, GenAI apps, and b
 - [ProjectFlow](https://github.com/Shashank-VK/projectflow) — Django + React
 - [apertureID](https://github.com/Shashank-VK/apertureID) — SCIM 2.0 identity provisioning
 
-**Experience:** Backend/API internships at JB Arrow Star (SCIM 2.0, OAuth 2.0, REST) and Infyntrek Systems.
+**Experience:** Backend/API internship at JB Arrow Star (SCIM 2.0, OAuth 2.0, REST).
 
 📫 shashankvkaramudi51@gmail.com · [LinkedIn](https://www.linkedin.com/in/shashankareddy-karamudi)

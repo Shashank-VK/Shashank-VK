@@ -16,6 +16,13 @@ B.Tech CSE '27 @ CMR University, Bengaluru. I build AI agents, GenAI apps, and b
 - [ProjectFlow](https://github.com/Shashank-VK/projectflow) — Django + React
 - [apertureID](https://github.com/Shashank-VK/apertureID) — SCIM 2.0 identity provisioning
 
+**Proof-of-work artifacts** — small, benchmarked, fully tested:
+- [stripe-webhook-idempotency](https://github.com/Shashank-VK/stripe-webhook-idempotency) — exactly-once webhook ledger (36 tests)
+- [aiprise-vendor-normalizer](https://github.com/Shashank-VK/aiprise-vendor-normalizer) — 3 KYC vendor APIs \u2192 one risk schema (23 tests)
+- [plantdoc-grounded-qa](https://github.com/Shashank-VK/plantdoc-grounded-qa) — citation-grounded RAG, 92% citation precision (32 tests)
+- [agent-harness-eval](https://github.com/Shashank-VK/agent-harness-eval) — baseline vs chain-of-thought agent benchmark (28 tests)
+- [indic-voice-agent-eval](https://github.com/Shashank-VK/indic-voice-agent-eval) — Indic speech-to-text WER/latency benchmarks (36 tests)
+
 **Experience:** Backend/API internship at JB Arrow Star (SCIM 2.0, OAuth 2.0, REST).
 
 📫 shashankvkaramudi51@gmail.com · [LinkedIn](https://www.linkedin.com/in/shashankareddy-karamudi)
